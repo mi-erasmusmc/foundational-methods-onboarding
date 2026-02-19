@@ -4,6 +4,7 @@ site_url: https://mi-erasmusmc.github.io/foundational-methods-onboarding/
 
 nav:
   - Home: index.md
+  - Department of Medical Informatics: department-of-medical-informatics.md
 
 theme:
   name: material
