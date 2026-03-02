@@ -8,7 +8,7 @@ flowchart LR
 
 subgraph P1["Context Aware Learning"]
   direction TB
-  A1["Utilize existing clinical<br/>knowledge from taxonomies and<br>ontologies for clinical prediction"]
+  A1["Utilize existing clinical<br/>knowledge from taxonomies and<br/>ontologies for clinical prediction"]
 end
 
 subgraph P2["Distributed Learning"]
