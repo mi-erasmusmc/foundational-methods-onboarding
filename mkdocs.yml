@@ -4,8 +4,9 @@ site_url: https://mi-erasmusmc.github.io/foundational-methods/
 
 nav:
   - Home: index.md
-  - Research: research.md
   - Department of Medical Informatics: department-of-medical-informatics.md
+  - Research: research.md
+  - Dissemination: dissemination.md
 
 theme:
   name: material
