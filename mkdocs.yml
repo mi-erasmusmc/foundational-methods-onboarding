@@ -1,6 +1,6 @@
-site_name: Foundational Methods Onboarding
-site_description: Onboarding for the Foundational Methods pillar / research subgroup
-site_url: https://mi-erasmusmc.github.io/foundational-methods-onboarding/
+site_name: Foundational Methods
+site_description: Foundational Methods pages, including onboarding for the pillar / research subgroup
+site_url: https://mi-erasmusmc.github.io/foundational-methods/
 
 nav:
   - Home: index.md

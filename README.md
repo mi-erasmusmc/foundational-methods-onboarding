@@ -1,6 +1,6 @@
-# Foundational Methods Onboarding
+# Foundational Methods
 
-Bare-bones MkDocs (Material) site for the Foundational Methods pillar onboarding.
+Bare-bones MkDocs (Material) site for the Foundational Methods pages, including onboarding content.
 
 ## Quick start
 

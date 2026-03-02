@@ -1,4 +1,5 @@
-# Foundational Methods Onboarding
+# Foundational Methods
 
-This is the starting point for students joining the Foundational Methods pillar.
+Welcome to the Foundational Methods pages.
 
+This site includes onboarding material for students joining the Foundational Methods pillar, along with broader pillar information.
